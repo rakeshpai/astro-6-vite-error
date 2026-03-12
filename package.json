@@ -14,16 +14,16 @@
     "generate-types": "wrangler types"
   },
   "dependencies": {
-    "astro": "6.0.0-beta.13"
+    "astro": "6.0.3"
   },
   "devDependencies": {
-    "@astrojs/cloudflare": "13.0.0-beta.8",
+    "@astrojs/cloudflare": "13.1.0",
     "@edge-runtime/vm": "^5.0.0",
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.0",
-    "@vitest/browser-playwright": "^4.0.18",
+    "@vitest/browser-playwright": "^4.1.0",
     "vite": "^7.3.1",
-    "vitest": "^4.0.18",
-    "wrangler": "^4.66.0"
+    "vitest": "^4.1.0",
+    "wrangler": "^4.72.0"
   }
 }
