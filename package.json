@@ -14,15 +14,15 @@
     "generate-types": "wrangler types"
   },
   "dependencies": {
-    "astro": "6.0.3"
+    "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@308cec5",
+    "astro": "7.0.2"
   },
   "devDependencies": {
-    "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@308cec5",
     "@edge-runtime/vm": "^5.0.0",
     "@playwright/test": "^1.61.1",
-    "@types/node": "^25.9.4",
+    "@types/node": "^26.0.0",
     "@vitest/browser-playwright": "^4.1.9",
-    "vite": "^7.3.5",
+    "vite": "^8.1.0",
     "vitest": "^4.1.9",
     "wrangler": "^4.104.0"
   }
