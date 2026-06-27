@@ -14,7 +14,7 @@
     "generate-types": "wrangler types"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@308cec5",
+    "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@5652c8b",
     "astro": "7.0.2"
   },
   "devDependencies": {
@@ -24,6 +24,6 @@
     "@vitest/browser-playwright": "^4.1.9",
     "vite": "^8.1.0",
     "vitest": "^4.1.9",
-    "wrangler": "^4.104.0"
+    "wrangler": "^4.105.0"
   }
 }
